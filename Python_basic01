@@ -1,0 +1,4 @@
+input01 = input("What is your birth year? : ")
+input02 = input("What are last 7 numbers of your NIC Number? : ")
+id_Number_is = ("Hello, Your ID number is "  + input01[2:4] + input02 )
+print(id_Number_is)
